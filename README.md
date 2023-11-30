@@ -11,13 +11,21 @@ This is a lightweight and stylish music player created with HTML, CSS, and JavaS
 
 Features <br>
 
-Responsive Design: The player is designed to adapt to different screen sizes, ensuring a seamless experience across devices.
-Dynamic Song Loading: The player dynamically loads song information, including name, artist, and album art, creating a dynamic and engaging user interface.
-Play Controls: Users can easily play or pause the music using the intuitive play/pause button. The play icon transforms into a pause icon during playback.
-Track Navigation: Navigate through the playlist with the next and previous buttons, making it easy to switch between songs.
-Progress Bar: Visualize the progress of the currently playing song with a progress bar. Users can also click on the progress bar to jump to a specific part of the track.
-Time Details: The player displays both the current and total duration of the song, allowing users to keep track of the progress.
-Repeat and Shuffle: Users can choose to repeat the current track or shuffle through the playlist for a more dynamic listening experience.
+Responsive Design: The player is designed to adapt to different screen sizes, ensuring a seamless experience across devices.<br>
+
+Dynamic Song Loading: The player dynamically loads song information, including name, artist, and album art, creating a dynamic and engaging user interface.<br>
+
+Play Controls: Users can easily play or pause the music using the intuitive play/pause button. The play icon transforms into a pause icon during playback.<br>
+
+Track Navigation: Navigate through the playlist with the next and previous buttons, making it easy to switch between songs. <br>
+
+Progress Bar: Visualize the progress of the currently playing song with a progress bar. Users can also click on the progress bar to jump to a specific part of the track. <br>
+
+Time Details: The player displays both the current and total duration of the song, allowing users to keep track of the progress.<br>
+
+Repeat and Shuffle: Users can choose to repeat the current track or shuffle through the playlist for a more dynamic listening experience.<br>
+
+****
 
 Usage <br>
 
