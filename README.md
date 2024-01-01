@@ -9,7 +9,7 @@ This is a lightweight and stylish music player created with HTML, CSS, and JavaS
 ![ezgif com-video-to-gif](https://github.com/tubayapa/Music-Player/assets/147662888/2d094ba0-1396-466b-9c85-48637bb4ae97)
 
 
-Features <br>
+# Features <br>
 
 Responsive Design: The player is designed to adapt to different screen sizes, ensuring a seamless experience across devices.<br>
 
@@ -35,5 +35,5 @@ Enjoy your music with a simple and sleek interface.
 Feel free to customize the player by adding your own songs or tweaking the styling to match your preferences.
 
 
-This project uses HTML, CSS, and JavaScript.
+# This project uses HTML, CSS, and JavaScript.
 Album art and music files are included in the images and music folders, respectively.
